@@ -1,0 +1,5 @@
+apple,5
+banana,3
+orange,6
+lemon,1
+kiwi,8
