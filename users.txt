@@ -1,0 +1,3 @@
+Batman,Black
+Spiderman,Red-Blue
+Hulk,Green
